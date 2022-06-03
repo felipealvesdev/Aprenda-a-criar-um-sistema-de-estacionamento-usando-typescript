@@ -1,0 +1,15 @@
+body{
+    background-color: lightblue;
+}
+.bloco{
+    border-radius: 10rem;
+    background-color: #fff;
+    max-width: 15rem;
+}
+.informacoes{
+    background-color: #fff;
+
+}
+#garage{
+    background-color: #fff;
+}
